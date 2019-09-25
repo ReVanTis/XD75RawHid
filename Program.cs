@@ -10,7 +10,7 @@ using ColorMine.ColorSpaces;
 using HidSharp;
 using HidSharp.Utility;
 
-namespace XD75_HID
+namespace XD75_HID_Core
 {
     public static class Enums
     {
